@@ -10,10 +10,10 @@
     --color-gray: #808080;
     --color-gray-light: color-mix(in srgb, var(--color-gray) 10%, var(--color-white));
     --color-gray-dark: color-mix(in srgb, var(--color-gray) 50%, var(--color-black));
-    --color-primary: #111111;
+    --color-primary: #560d0d;
     --color-primary-light: color-mix(in srgb, var(--color-primary) 10%, var(--color-white));
     --color-primary-dark: color-mix(in srgb, var(--color-primary) 50%, var(--color-black));
-    --color-secondary: #D9CFFF;
+    --color-secondary: #d9cfff;
     --color-secondary-light: color-mix(in srgb, var(--color-secondary) 10%, var(--color-white));
     --color-secondary-dark: color-mix(in srgb, var(--color-secondary) 50%, var(--color-black));
     --color-anchor: #ffba08;
@@ -22,8 +22,8 @@
     --color-header: #181512;
     --color-header-light: color-mix(in srgb, var(--color-header) 10%, var(--color-white));
     --color-header-dark: color-mix(in srgb, var(--color-header) 50%, var(--color-black));
-    --color-text: #181222;
-    --color-text-white: #dddddd;
+    --color-text: #5e00fb;
+    --color-text-white: #a50000;
     --color-text-light: #4d4d4d;
     --color-deactive: #ababab;
 

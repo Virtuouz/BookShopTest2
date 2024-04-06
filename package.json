@@ -9,7 +9,8 @@
     "build:eleventy": "eleventy",
     "start": "npm-run-all watch:eleventy",
     "build": "npm-run-all build:eleventy",
-    "new": "npx @bookshop/init --component"
+    "new": "npx @bookshop/init --component",
+    "browser": "npx @bookshop/browser"
   },
   "keywords": [],
   "author": "",
